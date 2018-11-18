@@ -1,4 +1,4 @@
-To run the application use the below command
+To run the application use the below command\n
 npm start
 
 The application will start on port 3000
